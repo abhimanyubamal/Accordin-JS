@@ -76,11 +76,20 @@ p{
     transform: rotate(180deg);
 }
 
-body{
-    color: #808080;
+.font-inter{
     font-family: 'Inter', sans-serif;
-    font-weight: 400;
+}
+
+.font-size-16{
     font-size: 16px;
+}
+
+.font-weight-400{
+    font-weight: 400;
+}
+
+.font-color-grey{
+    color: #808080;
 }
 
 .active h3{
